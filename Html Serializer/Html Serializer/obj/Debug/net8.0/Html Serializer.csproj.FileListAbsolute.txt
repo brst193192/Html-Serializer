@@ -1,0 +1,42 @@
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.exe
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.deps.json
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.runtimeconfig.json
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.dll
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.pdb
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.AssemblyInfoInputs.cache
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.AssemblyInfo.cs
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.csproj.CoreCompileInputs.cache
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.dll
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\obj\Debug\net8.0\refint\Html Serializer.dll
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.pdb
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.genruntimeconfig.cache
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\obj\Debug\net8.0\ref\Html Serializer.dll
+G:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.exe
+G:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.deps.json
+G:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.runtimeconfig.json
+G:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.dll
+G:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.pdb
+G:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.GeneratedMSBuildEditorConfig.editorconfig
+G:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.AssemblyInfoInputs.cache
+G:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.AssemblyInfo.cs
+G:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.csproj.CoreCompileInputs.cache
+G:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.dll
+G:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\obj\Debug\net8.0\refint\Html Serializer.dll
+G:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.pdb
+G:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.genruntimeconfig.cache
+G:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2\Html Serializer\Html Serializer\obj\Debug\net8.0\ref\Html Serializer.dll
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2 - Html Serializer\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.exe
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2 - Html Serializer\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.deps.json
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2 - Html Serializer\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.runtimeconfig.json
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2 - Html Serializer\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.dll
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2 - Html Serializer\Html Serializer\Html Serializer\bin\Debug\net8.0\Html Serializer.pdb
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2 - Html Serializer\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2 - Html Serializer\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.AssemblyInfoInputs.cache
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2 - Html Serializer\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.AssemblyInfo.cs
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2 - Html Serializer\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.csproj.CoreCompileInputs.cache
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2 - Html Serializer\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.dll
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2 - Html Serializer\Html Serializer\Html Serializer\obj\Debug\net8.0\refint\Html Serializer.dll
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2 - Html Serializer\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.pdb
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2 - Html Serializer\Html Serializer\Html Serializer\obj\Debug\net8.0\Html Serializer.genruntimeconfig.cache
+E:\תכנות\שנה ב\פרקטיקוד\פרוייקט 2 - Html Serializer\Html Serializer\Html Serializer\obj\Debug\net8.0\ref\Html Serializer.dll
